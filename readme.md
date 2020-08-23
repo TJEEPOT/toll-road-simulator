@@ -6,7 +6,7 @@ I used this project to understand more intermediate-level Java as well as practi
 # What I Learned #
 * Intermediate Java concepts (file I/O, exceptions, enums etc)
 * OOP Concepts (inheritance, abstraction and polymorphism)
-* Software Engineering (UML, basic system design principles)
+* Software Engineering ([UML](https://tjeepot.github.io/projects/toll-road-simulator/UML.pdf), basic system design principles)
 
 # Usage Notes #
 Compile in your favorite Java editor, or on command line using javac. Ensure customerData.txt and transactions.txt is in the project root. This program has no command-line arguments.
